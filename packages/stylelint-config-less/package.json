@@ -4,7 +4,7 @@
   "description": "stylelint config for less",
   "repository": {
     "type": "git",
-    "url": "ssh://git@gitea.bowen.cool:10022/zhaobowen/code-rules.git"
+    "url": "git@github.com:bowencool/code-rules.git"
   },
   "author": "zhaobowen",
   "license": "ISC",
