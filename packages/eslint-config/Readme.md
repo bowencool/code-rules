@@ -1,6 +1,11 @@
+```bash
+  yarn add @bowencool/eslint-config -D
+```
+in `.eslintrc.js`
+
 ``` js
 module.exports = {
-  extends: ['@bowencool', '@bowencool/vue', '@bowencool/ts'],
+  extends: ['@bowencool'],
   rules: {
     // your rules
   },
