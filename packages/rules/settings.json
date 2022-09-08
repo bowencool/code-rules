@@ -1,0 +1,8 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "stylelint.enable": true,
+  "stylelint.validate": ["vue"],
+  "css.validate": false,
+  "less.validate": false,
+  "scss.validate": false
+}

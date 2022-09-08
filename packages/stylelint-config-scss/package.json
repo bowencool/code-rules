@@ -1,0 +1,18 @@
+{
+  "name": "@bowen/stylelint-config-scss",
+  "version": "1.1.0",
+  "description": "stylelint config for scss",
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@gitea.bowen.cool:10022/zhaobowen/code-rules.git"
+  },
+  "author": "zhaobowen",
+  "license": "ISC",
+  "dependencies": {
+    "postcss-scss": "^4.0.4",
+    "stylelint-scss": "^4.3.0"
+  },
+  "peerDependencies": {
+    "stylelint": "^14.1.0"
+  }
+}

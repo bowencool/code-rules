@@ -1,0 +1,18 @@
+{
+  "name": "@bowen/rules",
+  "version": "1.0.0",
+  "description": "code rules",
+  "private": "true",
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@gitea.bowen.cool:10022/zhaobowen/code-rules.git"
+  },
+  "author": "zhaobowen",
+  "license": "ISC",
+  "devDependencies": {
+    "lerna": "^5.1.8"
+  },
+  "workspaces": [
+    "packages/*"
+  ]
+}

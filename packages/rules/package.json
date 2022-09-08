@@ -1,0 +1,14 @@
+{
+  "name": "@bowen/rules",
+  "version": "1.2.0",
+  "description": "code rules",
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@gitea.bowen.cool:10022/zhaobowen/code-rules.git"
+  },
+  "author": "zhaobowen",
+  "license": "ISC",
+  "dependencies": {
+    "@commitlint/config-conventional": "^16.2.4"
+  }
+}
