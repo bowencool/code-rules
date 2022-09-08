@@ -1,4 +1,4 @@
-# react 的 eslint 规则
+eslint config for react
 
 ```bash
   yarn add @bowencool/eslint-config-react -D

@@ -1,3 +1,5 @@
+eslint base config
+
 ```bash
   yarn add @bowencool/eslint-config -D
 ```

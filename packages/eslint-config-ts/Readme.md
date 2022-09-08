@@ -1,4 +1,4 @@
-# typescript 的 eslint 规则
+eslint config for typescript
 
 ```bash
   yarn add @bowencool/eslint-config-ts -D

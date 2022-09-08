@@ -1,3 +1,5 @@
+stylelint config for scss/sass
+
 In `.stylelintrc.js`:
 
 ```js

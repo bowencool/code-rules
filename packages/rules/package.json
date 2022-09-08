@@ -1,7 +1,7 @@
 {
   "name": "@bowencool/rules",
   "version": "1.2.2",
-  "description": "code rules",
+  "description": "misc config",
   "repository": {
     "type": "git",
     "url": "git@github.com:bowencool/code-rules.git"

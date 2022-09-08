@@ -1,3 +1,5 @@
+# misc config
+
 in `.prettierrc.js`
 
 ```js

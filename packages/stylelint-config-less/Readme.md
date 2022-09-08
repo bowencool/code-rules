@@ -1,3 +1,5 @@
+stylelint config for less
+
 In `.stylelintrc.js`:
 
 ```js

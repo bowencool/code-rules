@@ -1,4 +1,4 @@
-# vue 的 eslint 规则
+eslint config for vue
 
 ```bash
   yarn add @bowencool/eslint-config-vue -D
