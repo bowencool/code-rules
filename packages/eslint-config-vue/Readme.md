@@ -1,11 +1,11 @@
 # vue的eslint规则
 ``` bash
-  yarn add @bowen/eslint-config-vue -D
+  yarn add @bowencool/eslint-config-vue -D
 ```
 
 ``` js
 module.exports = {
-  extends: ['@bowen', '@bowen/vue'],
+  extends: ['@bowencool', '@bowencool/vue'],
   rules: {
     // your rules
   },

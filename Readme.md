@@ -2,12 +2,6 @@
 
 My personal code rules.
 
-If you want to use these config, write the following configuration into `${HomeDir/ProjectRootDir}/.npmrc`:
-
-```
-@bowen:registry=https://npm.bowen.cool:10443/
-```
-
 ## Directory
 
 ```
@@ -30,20 +24,20 @@ If you want to use these config, write the following configuration into `${HomeD
 
 in `.eslintrc.js`
 
-see [@bowen/eslint-config](./packages/eslint-config)
+see [@bowencool/eslint-config](./packages/eslint-config)
 
 in `.stylelintrc.js`
 
-see [@bowen/stylelint-config](./packages/stylelint-config)
+see [@bowencool/stylelint-config](./packages/stylelint-config)
 
 in `.prettierrc.js`
 
 ```js
-module.exports = require("@bowen/rules/prettier");
+module.exports = require("@bowencool/rules/prettier");
 ```
 
 in `commitlint.config.js`
 
 ```js
-module.exports = require("@bowen/rules/commitlint");
+module.exports = require("@bowencool/rules/commitlint");
 ```

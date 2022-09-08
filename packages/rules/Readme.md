@@ -1,11 +1,11 @@
 in `.prettierrc.js`
 
 ```js
-module.exports = require('@bowen/rules/prettier');
+module.exports = require('@bowencool/rules/prettier');
 ```
 
 in `commitlint.config.js`
 
 ```js
-module.exports = require('@bowen/rules/commitlint');
+module.exports = require('@bowencool/rules/commitlint');
 ```

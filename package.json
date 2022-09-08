@@ -1,11 +1,8 @@
 {
-  "name": "@bowen/rules",
+  "name": "@bowencool/rules",
   "version": "1.0.0",
   "description": "My personal code rules",
   "private": "true",
-  "publishConfig": {
-    "registry": "https://npm.bowen.cool:10443/"
-  },
   "repository": {
     "type": "git",
     "url": "git@github.com:bowencool/code-rules.git"

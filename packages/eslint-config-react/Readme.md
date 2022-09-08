@@ -1,12 +1,12 @@
 # react 的 eslint 规则
 
 ```bash
-  yarn add @bowen/eslint-config-react -D
+  yarn add @bowencool/eslint-config-react -D
 ```
 
 ```js
 module.exports = {
-  extends: ['@bowen', '@bowen/ts', '@bowen/react'],
+  extends: ['@bowencool', '@bowencool/ts', '@bowencool/react'],
   rules: {
     // your rules
   },

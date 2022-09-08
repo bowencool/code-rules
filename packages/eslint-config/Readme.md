@@ -1,6 +1,6 @@
 ``` js
 module.exports = {
-  extends: ['@bowen', '@bowen/vue', '@bowen/ts'],
+  extends: ['@bowencool', '@bowencool/vue', '@bowencool/ts'],
   rules: {
     // your rules
   },

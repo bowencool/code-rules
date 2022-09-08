@@ -1,5 +1,5 @@
 {
-  "name": "@bowen/stylelint-config-less",
+  "name": "@bowencool/stylelint-config-less",
   "version": "1.1.1",
   "description": "stylelint config for less",
   "repository": {
