@@ -1,8 +1,14 @@
-# code-rules
+# Code rules
 
-lint 配置文件合集
+My personal code rules.
 
-## 包结构
+If you want to use these config, write the following configuration into `${HomeDir/ProjectRootDir}/.npmrc`:
+
+```
+@bowen:registry=https://npm.bowen.cool:10443/
+```
+
+## Directory
 
 ```
 └── packages
@@ -20,19 +26,7 @@ lint 配置文件合集
     └── stylelint-config-less
 ```
 
-<!-- # 接入
-
-```zsh
-// 接入
-npx @bowen/cli init-lint -f
-ga . && gc -nm "接入lint"
-
-// 跑全局
-npx eslint src/**/*.{vue,js,jsx,ts,tsx} —fix
-npx stylelint src/**/*.{vue,scss,sass,less,css} —fix
-``` -->
-
-# Use
+## Use
 
 in `.eslintrc.js`
 

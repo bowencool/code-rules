@@ -1,7 +1,7 @@
 {
   "name": "@bowen/rules",
   "version": "1.0.0",
-  "description": "code rules",
+  "description": "My personal code rules",
   "private": "true",
   "publishConfig": {
     "registry": "https://npm.bowen.cool:10443/"
