@@ -36,11 +36,11 @@ npx stylelint src/**/*.{vue,scss,sass,less,css} —fix
 
 in `.eslintrc.js`
 
-see @bowen/eslint-config
+see [@bowen/eslint-config](./packages/eslint-config)
 
 in `.stylelintrc.js`
 
-see @bowen/stylelint-config
+see [@bowen/stylelint-config](./packages/stylelint-config)
 
 in `.prettierrc.js`
 
