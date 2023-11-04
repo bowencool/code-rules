@@ -33,12 +33,6 @@ module.exports = {
         ignorePseudoElements: ['v-deep', 'v-global', 'v-slotted'],
       },
     ],
-    'declaration-block-trailing-semicolon': [
-      'always',
-      {
-        severity: 'warning',
-      },
-    ],
     'selector-class-pattern': null,
   },
   ignoreFiles: ['**/*.js', '**/*.jsx', '**/*.tsx', '**/*.ts'],
