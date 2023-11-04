@@ -9,10 +9,10 @@
   "author": "zhaobowen",
   "license": "ISC",
   "dependencies": {
-    "postcss-scss": "^4.0.4",
-    "stylelint-scss": "^4.3.0"
+    "postcss-scss": "^4.0.9",
+    "stylelint-scss": "^5.3.0"
   },
   "peerDependencies": {
-    "stylelint": "^14.1.0"
+    "stylelint": "^15"
   }
 }

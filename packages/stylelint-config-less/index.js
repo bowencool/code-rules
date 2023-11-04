@@ -1,5 +1,6 @@
 module.exports = {
   plugins: ['stylelint-less'],
+  extends: ['stylelint-config-standard-less', 'stylelint-config-recommended-less'],
   overrides: [
     {
       files: ['**/*.less'],
