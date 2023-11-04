@@ -140,7 +140,6 @@ module.exports = {
         "@typescript-eslint/prefer-string-starts-ends-with": 0,
         "@typescript-eslint/prefer-ts-expect-error": 0,
         "@typescript-eslint/promise-function-async": 0,
-        quotes: "off",
         "@typescript-eslint/quotes": 0,
         "@typescript-eslint/require-array-sort-compare": 0,
         "require-await": "off",

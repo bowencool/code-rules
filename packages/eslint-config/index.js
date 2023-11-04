@@ -20,6 +20,7 @@ const config = {
     camelcase: 0,
     "comma-dangle": 1,
     "dot-notation": 1,
+    quotes: 0,
     "lines-between-class-members": 1,
     "operator-linebreak": 0,
     // "wrap-iife": 0,
