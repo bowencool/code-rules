@@ -1,6 +1,6 @@
 {
   "name": "@bowencool/stylelint-config-less",
-  "version": "1.1.4",
+  "version": "1.1.5-alpha.0",
   "description": "stylelint config for less",
   "repository": {
     "type": "git",
