@@ -10,7 +10,7 @@
   "author": "zhaobowen",
   "license": "ISC",
   "devDependencies": {
-    "lerna": "^5.1.8"
+    "lerna": "^7.4.2"
   },
   "workspaces": [
     "packages/*"
