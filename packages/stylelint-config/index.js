@@ -1,7 +1,6 @@
 module.exports = {
   extends: [
     'stylelint-config-standard',
-    'stylelint-config-prettier',
     // todo properties order
   ],
   plugins: [/* 'stylelint-order', */ 'stylelint-declaration-block-no-ignored-properties'],
